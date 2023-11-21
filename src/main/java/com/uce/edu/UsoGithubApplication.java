@@ -14,6 +14,7 @@ public class UsoGithubApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("primer cambio en la misma rama");
+		System.out.println("Cambio en una nueva rama !!");
 	}
 
 }
